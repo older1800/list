@@ -3,11 +3,10 @@
 #EXTIN
 
 
-#EXTINF:-1 group-title="русские",ТНТ4
+EXTINF:-1 group-title="русские",ТНТ4
 http://46.8.29.51:2020/channel/4b9faec8/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-
-
-
+#EXTINF:-1 group-title="русские",HD Life
+http://46.8.29.51:2020/channel/n26e8c18b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",CGTN Русский
 http://46.8.29.51:2020/channel/n362f3ef/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",CGTN
@@ -32,7 +31,7 @@ http://46.8.29.51:2020/channel/5ddf1954/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/5bb5dcb1/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Оружие
 http://46.8.29.51:2020/channel/n22587c53/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Нано HD
+#EXTINF:-1 group-title="русские",Нано ТВ HD
 http://46.8.29.51:2020/channel/n794b94d3/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Моя Планета HD
 http://46.8.29.51:2020/channel/17b213b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -48,7 +47,7 @@ http://46.8.29.51:2020/channel/n5220a23b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/n5b1b1692/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",МИР ВОКРУГ HD
 http://46.8.29.51:2020/channel/n7377281d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",В мире животных
+#EXTINF:-1 group-title="русские",В мире животных HD
 http://46.8.29.51:2020/channel/90f93c9/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Большая Азия
 http://46.8.29.51:2020/channel/n4a7875f0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -120,7 +119,7 @@ http://46.8.29.51:2020/channel/n5bf0fb1c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/n499fb5dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Премиальное HD
 http://46.8.29.51:2020/channel/n381462cc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",ПОЕХАЛИ
+#EXTINF:-1 group-title="русские",ПОЕХАЛИ!
 http://46.8.29.51:2020/channel/23a20d1e/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",ПОБЕДА
 http://46.8.29.51:2020/channel/n2299fdc6/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -172,23 +171,26 @@ http://46.8.29.51:2020/channel/69719f48/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/33fd8be/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Кино ТВ (+4)
 http://46.8.29.51:2020/channel/3bd75b02/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",КВН ТВ
+#EXTINF:-1 group-title="русские", Анекдот ТВ
 http://46.8.29.51:2020/channel/n2bd4b77a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Камеди HD
 http://46.8.29.51:2020/channel/n1a873ff2/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Калейдоскоп ТВ
 http://46.8.29.51:2020/channel/n3bb01902/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-
-#EXTINF:-1 group-title="русские",ИНДИЙСКОЕ КИНО
-http://46.8.29.51:2020/channel/68519c3a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",РОДНОЕ КИНО
+#EXTINF:-1 group-title="русские",Индия
+http://46.8.29.51:2020/channel/27d88f6b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="русские",Bollywood
+http://46.8.29.51:2020/channel/n4f6a9002/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="русские", Советская кинокласика
 http://46.8.29.51:2020/channel/cf663e6/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-
+#EXTINF:-1 group-title="русские",МУЖСКОЕ КИНО
+http://46.8.29.51:2020/channel/5a53915b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",КИНОМИКС
 http://46.8.29.51:2020/channel/n13dfa8e3/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",КИНОКОМЕДИЯ
-http://46.8.29.51:2020/channel/n17ef5e4c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-
+#EXTINF:-1 group-title="русские", Комедийное
+http://46.8.29.51:2020/channel/258e9a85/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="русские",КИНОСЕРИЯ
+http://46.8.29.51:2020/channel/n67d04177/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",НАШЕ НОВОЕ КИНО
 http://46.8.29.51:2020/channel/n4704b04/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",КИНОСВИДАНИЕ
@@ -201,8 +203,8 @@ http://46.8.29.51:2020/channel/n2e7836ec/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/6741f92c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Зал суда
 http://46.8.29.51:2020/channel/n5aec9d69/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Живи!
-http://46.8.29.51:2020/channel/27ba0ede/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="русские",Тонус
+http://46.8.29.51:2020/channel/286611e4/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Живи активно
 http://46.8.29.51:2020/channel/n76b315ea/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",ЖАРА
@@ -211,8 +213,6 @@ http://46.8.29.51:2020/channel/4b9a0d25/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/n31bcab17/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Енисей
 http://46.8.29.51:2020/channel/6646c568/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Еда. Рецепты Лазерсона
-http://46.8.29.51:2020/channel/n47c25b07/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Еда
 http://46.8.29.51:2020/channel/n26d9ff0a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Душевное HD
@@ -221,8 +221,6 @@ http://46.8.29.51:2020/channel/n23e1be1d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/n338694b7/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Дом Кино Премиум HD
 http://46.8.29.51:2020/channel/d5fb0eb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Дом Кино Премиум
-http://46.8.29.51:2020/channel/4b587a91/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Дом Кино
 http://46.8.29.51:2020/channel/53aa0f88/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Детективы
@@ -257,7 +255,7 @@ http://46.8.29.51:2020/channel/4b9787b9/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/n63934db/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Советская киноклассика
 http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Авто Плюс
+#EXTINF:-1 group-title="русские",Старт
 http://46.8.29.51:2020/channel/n223886a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",V1 Fem
 http://46.8.29.51:2020/channel/2eb25ea4/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -315,8 +313,8 @@ http://46.8.29.51:2020/channel/n1d59a877/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/n1d04a763/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",МузТВ
 http://46.8.29.51:2020/channel/70abfce0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",Ля-минор ТВ
-http://46.8.29.51:2020/channel/n3e902d95/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="русские",Шансон ТВ
+http://46.8.29.51:2020/channel/4b26e0ea/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Music Box Gold
 http://46.8.29.51:2020/channel/n3d726735/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Mezzo
@@ -355,7 +353,7 @@ http://46.8.29.51:2020/channel/n7376c50f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/61e61397/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Матч ТВ
 http://46.8.29.51:2020/channel/n16f0f8fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="русские",БОКС ТВ
+#EXTINF:-1 group-title="русские",Спортивный
 http://46.8.29.51:2020/channel/n14c7813f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Старт Триумф HD
 http://46.8.29.51:2020/channel/32d55d61/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -381,7 +379,6 @@ http://46.8.29.51:2020/channel/nd0c568d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/n26e8b5cc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="русские",Russian Extreme
 http://46.8.29.51:2020/channel/n6290c2fc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-
 
 
 
