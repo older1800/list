@@ -4,6 +4,9 @@ http://ex.iptvin.ru/iptvin.ru.mp4
 
 
 
+
+
+
 #EXTINF:-1 group-title="ruchanal"  tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
