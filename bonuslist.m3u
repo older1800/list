@@ -9,47 +9,47 @@ http://ex.iptvin.ru/iptvin.ru.mp4
 
 
 
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 1 HD
+#EXTINF:-1, БЕЛАРУСЬ 1 HD
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 2 HD
+#EXTINF:-1, БЕЛАРУСЬ 2 HD
 https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 3 HD
+#EXTINF:-1, БЕЛАРУСЬ 3 HD
 https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ВИТЕБСК
+#EXTINF:-1, БЕЛАРУСЬ 4 ВИТЕБСК
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 МОГИЛЕВ
+#EXTINF:-1, БЕЛАРУСЬ 4 МОГИЛЕВ
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ГРОДНО
+#EXTINF:-1, БЕЛАРУСЬ 4 ГРОДНО
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ГОМЕЛЬ
+#EXTINF:-1, БЕЛАРУСЬ 4 ГОМЕЛЬ
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GOM_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 БРЕСТ
+#EXTINF:-1, БЕЛАРУСЬ 4 БРЕСТ
 https://mfe.svc.ott.zala.by/hls/CH_BELARUS4BR_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 5 HD
+#EXTINF:-1, БЕЛАРУСЬ 5 HD
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", МИР HD
+#EXTINF:-1, МИР HD
 http://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", СТВ HD
+#EXTINF:-1, СТВ HD
 https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", ОНТ HD
+#EXTINF:-1, ОНТ HD
 https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
-#EXTINF:-1 group-title="БЕЛ/TV", НТВ БЕЛАРУСЬ
+#EXTINF:-1, НТВ БЕЛАРУСЬ
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
 
 
 
 
-#EXTINF:-1 group-title="(VPN)" ,Смотрим 100% Любовь
+#EXTINF:-1,Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 group-title="(VPN)" ,Смотрим 100% Мужское
+#EXTINF:-1,Смотрим 100% Мужское
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Классика
+#EXTINF:-1 ,Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Праздник
+#EXTINF:-1,Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Детское
+#EXTINF:-1,Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Факты
+#EXTINF:-1,Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
 
