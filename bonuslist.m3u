@@ -3,6 +3,36 @@
 http://ex.iptvin.ru/iptvin.ru.mp4
 
 
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 1 HD
+https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 2 HD
+https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 3 HD
+https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ВИТЕБСК
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 МОГИЛЕВ
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ГРОДНО
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 ГОМЕЛЬ
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GOM_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 4 БРЕСТ
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4BR_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 5 HD
+https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", МИР HD
+http://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", СТВ HD
+https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", ОНТ HD
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1 group-title="БЕЛ/TV", НТВ БЕЛАРУСЬ
+https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
+
+
+
+
 #EXTINF:-1,.Black
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1,.Red
