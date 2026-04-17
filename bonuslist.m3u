@@ -1,401 +1,405 @@
-
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-kzbtv 18.01.2026 20:09 channels 196 iptvin.ru
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-kzbtv 21.06.2025 15:52 channels 196 iptvin.ru
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1,.Black
-http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1,.Red
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1,.Sci-Fi
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1,1HD
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1,24 KZ HD
-http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
-#EXTINF:-1,31 РєР°РЅР°Р»
-http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
-#EXTINF:-1,5 РєР°РЅР°Р» (СЂРµРіРёРѕРЅР°Р»СЊРЅС‹Р№)
-http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:-1,31 канал
+https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1,5 канал (региональный)
+https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
 #EXTINF:-1,77 TV
-http://188.225.31.197/bpk-tv/000002851/tve/index.m3u8
-#EXTINF:-1,8 РєР°РЅР°Р»
-http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
+#EXTINF:-1,8 канал
+https://ucdn.beetv.kz/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1,ABAI TV
-http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
 #EXTINF:-1,Alem 1HD
-http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1,Alem 2HD
-http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1,Almaty tv
-http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
 #EXTINF:-1,Altai
-http://188.225.31.197/bpk-tv/000001572/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
 #EXTINF:-1,Amedia 1 HD
-http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1,Amedia 2
-http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1,Amedia HiT HD
-http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1,Amedia Premium HD
-http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1,Astana TV
-http://188.225.31.197/bpk-tv/000000666/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
 #EXTINF:-1,Atameken Business Channel HD
-http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1,Atyra
-http://188.225.31.197/bpk-tv/000001570/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
 #EXTINF:-1,BBC World News
-http://188.225.31.197/bpk-tv/000000014/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000014/tve/index.m3u8
 #EXTINF:-1,Balapan
-http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1,Big Planet HD
-http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1,Bollywood HD
-http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1,CNN International
-http://188.225.31.197/bpk-tv/000000707/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000707/tve/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
 #EXTINF:-1,Cartoonito
-http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
-
+https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1,Cinema
-http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1,Da Vinci
-http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:-1,Discovery Channel HD
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1,English Club TV
-http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000202/tve/index.m3u8
 #EXTINF:-1,Ertis
-http://188.225.31.197/bpk-tv/000003248/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
 #EXTINF:-1,Euro News
-http://188.225.31.197/bpk-tv/000002455/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1,Eurosport 2 HD
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1,FILM UA Drama
-http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1,FOX HD
-http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1,FOX Life HD
-http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1,FlixSnip HD
-http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:-1,Gagsnetwork
-http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
-#EXTINF:-1,Gakku TV
-http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
-#EXTINF:-1,Gulli Girl
-http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
-#EXTINF:-1,HIT TV
-http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:-1,History HD
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1,Hollywood
-http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
-#EXTINF:-1,Jambyl
-http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
-#EXTINF:-1,Jibek Joly
-http://188.225.31.197/bpk-tv/000000941/tve/index.m3u8
-#EXTINF:-1,Kkshe
-http://188.225.31.197/bpk-tv/000003021/tve/index.m3u8
-#EXTINF:-1,MCM Top
-http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
-#EXTINF:-1,MTV 00s
-http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
-#EXTINF:-1,MTV Live HD
-http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
-#EXTINF:-1,Maysta
-http://188.225.31.197/bpk-tv/000003247/tve/index.m3u8
-#EXTINF:-1,Mezzo
-http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
-#EXTINF:-1,Muzzone
-http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1,National Geographic HD
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1,Nick Jr
-http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
-#EXTINF:-1,Nicktoons
-http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:-1,Otstik
-http://188.225.31.197/bpk-tv/000003251/tve/index.m3u8
-#EXTINF:-1,Plan B
-http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
-#EXTINF:-1,Q Arena
-http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
-#EXTINF:-1,Q Football
-http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
-#EXTINF:-1,Q League
-http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
-#EXTINF:-1,Q Live 1
-http://188.225.31.197/bpk-tv/000008725/tve/index.m3u8
-#EXTINF:-1,Q Live 2
-http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8
-#EXTINF:-1,Q Live 3
-http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8
-#EXTINF:-1,Q Live 4
-http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8
-#EXTINF:-1,Qazaqstan HD
-http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
-#EXTINF:-1,Qazsport HD
-http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:-1,Qostanai
-http://188.225.31.197/bpk-tv/000001521/tve/index.m3u8
-#EXTINF:-1,Qyzyljar
-http://188.225.31.197/bpk-tv/000003249/tve/index.m3u8
-#EXTINF:-1,Qyzylorda
-http://188.225.31.197/bpk-tv/000003246/tve/index.m3u8
-#EXTINF:-1,RTVi HD
-http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
-#EXTINF:-1,SHOW KZ
-http://188.225.31.197/bpk-tv/000008944/tve/index.m3u8
-#EXTINF:-1,Saryarqa
-http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
-#EXTINF:-1,Semei
-http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
-#EXTINF:-1,Setanta Qazaqstan HD
-http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:-1,Setanta Sports 1 HD
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:-1,Start Air HD
-http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
-#EXTINF:-1,Start World HD
-http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1,TLC HD
-http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 
+
+
+https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Gagsnetwork
+https://ucdn.beetv.kz/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1,Gakku TV
+https://ucdn.beetv.kz/bpk-tv/000001383/tve/index.m3u8
+#EXTINF:-1,Gulli Girl
+https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1,HIT TV
+https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1,History HD
+https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1,Hollywood
+https://ucdn.beetv.kz/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1,Jambyl
+https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1,Jibek Joly
+https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
+#EXTINF:-1,Kkshe
+https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
+#EXTINF:-1,MCM Top
+https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1,MTV 00s
+https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
+#EXTINF:-1,MTV Live HD
+https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
+#EXTINF:-1,Maysta
+https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
+#EXTINF:-1,Mezzo
+https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1,Muzzone
+https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1,National Geographic HD
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1,Nick Jr
+https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1,Nicktoons
+https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1,Otstik
+https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
+#EXTINF:-1,Plan B
+https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1,Q Arena
+https://ucdn.beetv.kz/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:-1,Q Football
+https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
+#EXTINF:-1,Q League
+https://ucdn.beetv.kz/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1,Q Live 1
+https://ucdn.beetv.kz/bpk-tv/000008725/tve/index.m3u8
+#EXTINF:-1,Q Live 2
+https://ucdn.beetv.kz/bpk-tv/000008726/tve/index.m3u8
+#EXTINF:-1,Q Live 3
+https://ucdn.beetv.kz/bpk-tv/000008445/tve/index.m3u8
+#EXTINF:-1,Q Live 4
+https://ucdn.beetv.kz/bpk-tv/000008727/tve/index.m3u8
+#EXTINF:-1,Qazaqstan HD
+https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1,Qazsport HD
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1,Qostanai
+https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
+#EXTINF:-1,Qyzyljar
+
+https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
+#EXTINF:-1,Qyzylorda
+https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
+#EXTINF:-1,RTVi HD
+https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1,SHOW KZ
+https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
+#EXTINF:-1,Saryarqa
+https://ucdn.beetv.kz/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:-1,Semei
+https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1,Setanta Qazaqstan HD
+https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1,Start Air HD
+https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1,Start World HD
+https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1,TLC HD
+https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1,TV1000 HD
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1,TV1000 action HD
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1,TV1000 СЂСѓСЃСЃРєРѕРµ HD
-http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1,TV1000 русское HD
+https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1,Terra HD
-http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1,TiJi
-http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1,Trace Sport Stars HD
-http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
 #EXTINF:-1,Trace Urban HD
-http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
 #EXTINF:-1,Trash HD
-http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1,Turan TV
-http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
+
+https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
 #EXTINF:-1,Ulytau
-http://188.225.31.197/bpk-tv/000003604/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
 #EXTINF:-1,Viasat Explore HD
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1,Viasat Nature HD
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1,Vip Comedy HD
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1,Vip Megahit HD
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1,Vip Premiere HD
-http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1,Vip Serial HD
-http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1,Visast History HD
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1,Women's Magazine HD
-http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000008065/tve/index.m3u8
 #EXTINF:-1,viju+ Sport
-http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:-1,РђР’РўРћ 24
-http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
-#EXTINF:-1,РђР№Р°Рє
-http://188.225.31.197/bpk-tv/000001510/tve/index.m3u8
-#EXTINF:-1,РђР»Р°Сѓ РўР’
-http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
-#EXTINF:-1,РђРЅРµРєРґРѕС‚ РўР’
-http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
-#EXTINF:-1,РђРїРїРµС‚РёС‚РЅС‹Р№
-http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
-#EXTINF:-1,Р‘РµР»Р°СЂСѓСЃСЊ 24 HD
-http://188.225.31.197/bpk-tv/000000360/tve/index.m3u8
-#EXTINF:-1,Р‘РѕР±РµСЂ
-http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
-#EXTINF:-1,Р’ РіРѕСЃС‚СЏС… Сѓ СЃРєР°Р·РєРё
-http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
-#EXTINF:-1,Р’РѕРїСЂРѕСЃС‹ Рё РѕС‚РІРµС‚С‹
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
-#EXTINF:-1,Р’СЂРµРјСЏ
-http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
-#EXTINF:-1,Р“Р»Р°Р·Р°РјРё РўСѓСЂРёСЃС‚Р° HD
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:-1,Р”РµС‚СЃРєРёР№ РјРёСЂ
-http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
-#EXTINF:-1,Р”РёР°Р»РѕРіРё Рѕ Р С‹Р±Р°Р»РєРµ
-http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:-1,Р”РѕРј РєРёРЅРѕ Premium HD
-http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
-#EXTINF:-1,Р”РѕРј РєРёРЅРѕ
-http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
-#EXTINF:-1,Р”РѕРјР°С€РЅРёРµ Р¶РёРІРѕС‚РЅС‹Рµ
-http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:-1,Р”РѕРјР°С€РЅРёР№ International
-http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:-1,Р”РѕСЂР°РјР° HD
-http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
-#EXTINF:-1,Р•Р”Рђ
-http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
-#EXTINF:-1,Р•РІСЂРѕРєРёРЅРѕ
-http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
-#EXTINF:-1,Р•Р» РђСЂРЅР°
-http://188.225.31.197/bpk-tv/000000670/tve/index.m3u8
-#EXTINF:-1,Р–РµС‚iСЃСѓ
-http://188.225.31.197/bpk-tv/000001458/tve/index.m3u8
-#EXTINF:-1,Р–РёРІР°СЏ РїСЂРёСЂРѕРґР° HD
-http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:-1,Р—Р°РіРѕСЂРѕРґРЅР°СЏ Р¶РёР·РЅСЊ HD
-http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:-1,Р—Р°Р» СЃСѓРґР°
-http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
-#EXTINF:-1,Р—РґРѕСЂРѕРІРѕРµ РўР’
-http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
-#EXTINF:-1,Р—РѕРѕРїР°СЂРє
-http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:-1,РСЂР±РёСЃ TV
-http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:-1,РљРўРљ HD
-http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
-#EXTINF:-1,РљР°СЂСѓСЃРµР»СЊ International
-http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1,РљРёРЅРµРєРѕ HD
-http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:-1,РљРёРЅРѕР±РѕРµРІРёРє HD
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1,РљРёРЅРѕРјР°РЅ
-http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
-#EXTINF:-1,РљР»СЋС‡
-http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:-1,РљС‚РѕРљСѓРґР°
-http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
-#EXTINF:-1,Р›Р°РїРєРё LIVE
-http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:-1,Р›СЋР±РёРјРѕРµ РљРёРЅРѕ
-http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
-#EXTINF:-1,Р›С‘РІР°
-http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
-#EXTINF:-1,РњРћР”Рђ
-http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:-1,РњРёСЂ РЎРµСЂРёР°Р»Р°
-http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
-#EXTINF:-1,РњРёСЂРѕРІРѕРµ РљРёРЅРѕ HD
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1,РњРѕСЃС„РёР»СЊРј. Р—РѕР»РѕС‚Р°СЏ РєРѕР»Р»РµРєС†РёСЏ
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-#EXTINF:-1,РњСѓР¶СЃРєРѕР№
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:-1,РњСѓР·С‹РєР° РџРµСЂРІРѕРіРѕ
-http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
-#EXTINF:-1,РњСѓР»СЊС‚
-http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
-#EXTINF:-1,РњСѓР»СЊС‚РёР»Р°РЅРґРёСЏ
-http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
-#EXTINF:-1,РќРЎРў
-http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
-#EXTINF:-1,РќРўРљ
-http://188.225.31.197/bpk-tv/000000673/tve/index.m3u8
-#EXTINF:-1,РќР°СЂРѕРґ РІСЃС‘ РІРёРґРёС‚
-http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
-#EXTINF:-1,РќР°С€Р° РўРµРјР°
-http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
-#EXTINF:-1,РќРѕРІРѕРµ С‚РµР»РµРІРёРґРµРЅРёРµ HD
-http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
-#EXTINF:-1,РќРѕРІС‹Р№ РёРіСЂРѕРІРѕР№ РєР°РЅР°Р»
-http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1,Рћ!
-http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
-#EXTINF:-1,РћСЂСѓР¶РёРµ
-http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:-1,РћС‚С‹СЂР°СЂ-TV
-http://188.225.31.197/bpk-tv/000001052/tve/index.m3u8
-#EXTINF:-1,РџРµСЂРµС†
-http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1,РџР»Р°РЅРµС‚Р° HD
-http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:-1,РџРѕР±РµРґР°
-http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
-#EXTINF:-1,РџРѕРµС…Р°Р»Рё!
-http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
-#EXTINF:-1,РџСЂРµРјРёСѓРј РљРёРЅРѕ HD
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1,РџСЏС‚РЅРёС†Р° International
-http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
-#EXTINF:-1,Р РРљРђ-РўР’
-http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:-1,Р РµРЅ РўР’
-http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
-#EXTINF:-1,Р СѓСЃСЃРєРёР№ РР»Р»СЋР·РёРѕРЅ
-http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
-#EXTINF:-1,Р С‹Р±Р°Р»РєР° Рё РѕС…РѕС‚Р°
-http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:-1,РЎРўРЎ International
-http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
-#EXTINF:-1,РЎРўРЎ Kids
-http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
-#EXTINF:-1,РЎР°РїС„РёСЂ HD
-http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1,РЎРµРґСЊРјРѕР№ РєР°РЅР°Р»
-http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
-#EXTINF:-1,РЎРµРјРµР№РЅРѕРµ РєРёРЅРѕ HD
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1,РЎРїР°СЃ
-http://188.225.31.197/bpk-tv/000000247/tve/index.m3u8
-#EXTINF:-1,Рў24
-http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:-1,РўР’ 3 International
-http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
-#EXTINF:-1,РўР’21
-http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
-#EXTINF:-1,РўР’Рљ 6
-http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
-#EXTINF:-1,РўР’Р¦
-http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
-#EXTINF:-1,РўР”Рљ-42
-http://188.225.31.197/bpk-tv/000001507/tve/index.m3u8
-#EXTINF:-1,РўРќРў Music
-http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
-#EXTINF:-1,РўРќРў
-http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
-#EXTINF:-1,РўРќРў4
-http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:-1,РўР°Р№РЅС‹ РіР°Р»Р°РєС‚РёРєРё HD
-http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:-1,РўРІРѕС‘ С‚РµР»РµРІРёРґРµРЅРёРµ
-http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
-#EXTINF:-1,РўРµР»РµРєР°С„Рµ
-http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
-#EXTINF:-1,РўРµР»РµРїСѓС‚РµС€РµСЃС‚РІРёСЏ HD
-http://188.225.31.197/bpk-tv/000000277/tve/index.m3u8
-#EXTINF:-1,РўРѕР№ Р”СѓРјР°РЅ
-http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:-1,РўРѕС‡РєР° РѕС‚СЂС‹РІР°
-http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:-1,РўСѓСЂРєРµСЃС‚Р°РЅ
-http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:-1,РЈРґР°СЂ HD
-http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
-#EXTINF:-1,РЈРЅРёРєСѓРј
-http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
-#EXTINF:-1,Р¤РµРЅРёРєСЃ+РљРёРЅРѕ
-http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
-#EXTINF:-1,РҐР°Р±Р°СЂ HD
-http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
-#EXTINF:-1,РЁР°РЅСЃРѕРЅ РўР’
-http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1,АВТО 24
+https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1,Айак
+https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
+#EXTINF:-1,Алау ТВ
+https://ucdn.beetv.kz/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:-1,Анекдот ТВ
+https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1,Аппетитный
+https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1,Беларусь 24 HD
+https://ucdn.beetv.kz/bpk-tv/000000360/tve/index.m3u8
+#EXTINF:-1,Бобер
+https://ucdn.beetv.kz/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1,В гостях у сказки
+https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1,Время
+https://ucdn.beetv.kz/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1,Глазами Туриста HD
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1,Детский мир
+https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1,Диалоги о Рыбалке
+https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1,Дом кино Premium HD
+https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1,Дом кино
+https://ucdn.beetv.kz/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1,Домашние животные
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1,Домашний International
+https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1,Дорама HD
+https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1,ЕДА
+https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1,Еврокино
+https://ucdn.beetv.kz/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1,Ел Арна
+https://ucdn.beetv.kz/bpk-tv/000000670/tve/index.m3u8
+#EXTINF:-1,Жетісу
+https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
+#EXTINF:-1,Живая природа HD
+https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1,Загородная жизнь HD
+https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1,Зал суда
+https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1,Здоровое ТВ
+https://ucdn.beetv.kz/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1,Зоопарк
+https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1,Ирбис TV
+https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1,КТК HD
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1,Карусель International
+https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
+#EXTINF:-1,Кинеко HD
+https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1,Кинобоевик HD
+https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1,Киноман
+https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1,Ключ
+https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1,КтоКуда
+https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1,Лапки LIVE
+https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:-1,Любимое Кино
+https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1,Лёва
+https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1,МОДА
+https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1,Мир Сериала
+https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1,Мировое Кино HD
+https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1,Мужской
+https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1,Музыка Первого
+https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1,Мульт
+https://ucdn.beetv.kz/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1,Мультиландия
+https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1,НСТ
+https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1,НТК
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:-1,Народ всё видит
+https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1,Наша Тема
+https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1,Новое телевидение HD
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1,Новый игровой канал
+https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1,О!
+https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1,Оружие
+https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1,Отырар-TV
+https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
+#EXTINF:-1,Перец
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1,Планета HD
+https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1,Победа
+https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1,Поехали!
+https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1,Премиум Кино HD
+https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1,Пятница International
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1,РТРК-ТВ
+https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1,РЕН ТВ
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1,Рыбалка и охота
+https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1,СТС International
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1,СТС Kids
+https://ucdn.beetv.kz/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:-1,Сапфир HD
+https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1,Седьмой канал
+https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1,Семейное кино HD
+https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1,Спас
+https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
+#EXTINF:-1,Т24
+https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1,ТВ 3 International
+https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1,ТВ21
+https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1,ТВК 6
+https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:-1,ТВЦ
+https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1,ТДК-42
+https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
+#EXTINF:-1,ТНТ Music
+https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1,ТНТ
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1,ТНТ4
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1,Тайны галактики HD
+https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1,Твоё телевидение
+https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1,Телекафе
+https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1,Телепутешествия HD
+https://ucdn.beetv.kz/bpk-tv/000000277/tve/index.m3u8
+#EXTINF:-1,Той Думан
+https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1,Точка отрыва
+https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1,Туркестан
+https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1,Удар HD
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1,Уникум
+https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1,Феникс+Кино
+https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1,Хабар HD
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:-1,Шансон ТВ
+https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
+
+
 
 
 
