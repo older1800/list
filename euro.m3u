@@ -6,7 +6,7 @@
 
 
 
-#EXTINF:-1 group-title="TV1",Пе22рвый канал
+#EXTINF:-1 group-title="TV1",Первый канал
 http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
 #EXTINF:-1 group-title="TV1",Первый канал Евразия
 http://127.0.0.1:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
