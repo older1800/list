@@ -1,5 +1,6 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",list
+http://ex.iptvin.ru/iptvin.ru.mp4
 
 #EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 1 HD
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
