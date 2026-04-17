@@ -2,6 +2,13 @@
 #EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",list
 http://ex.iptvin.ru/iptvin.ru.mp4
 
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 1 HD
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
 #EXTINF:-1 group-title="БЕЛ/TV", БЕЛАРУСЬ 2 HD
@@ -28,6 +35,23 @@ https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
 #EXTINF:-1 group-title="БЕЛ/TV", НТВ БЕЛАРУСЬ
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
+
+
+
+
+#EXTINF:-1 group-title="(VPN)" ,Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 group-title="(VPN)" ,Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title=" (VPN)" ,Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
 
 
 
