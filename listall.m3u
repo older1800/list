@@ -240,7 +240,7 @@ https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=zm
 #EXTINF:-1 ,Плюс минус 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=S2cEQS9_GcxTKX904GG-rA&e=2076365464&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Звезда
+#EXTINF:-1 ,Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=oaGLZaXYOmVgxHNTR3MMcg&e=2076365469&scheme=https
 
